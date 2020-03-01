@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import SEO from '~/components/seo'
 
-const SecondPage = () => (
+const PrivacyPolicyPage = () => (
   <>
     <SEO title="Private Policy" />
     <h1>Privacy Policy of Drew's Senior Year Flash Sale</h1>
@@ -66,4 +66,4 @@ const SecondPage = () => (
   </>
 )
 
-export default SecondPage
+export default PrivacyPolicyPage

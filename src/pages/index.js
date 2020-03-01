@@ -10,7 +10,7 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Shop powered by Gatsby and Shopify.</p>
     <ProductGrid />
-    <Link to="/Privacy-PolicyPage/">Private Policy</Link>
+    <Link to="/Privacy-PolicyPage/">Privacy Policy</Link>
   </>
 )
 
