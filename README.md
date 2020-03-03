@@ -2,16 +2,18 @@
 <h1 align="center">
   <img alt="Gatsby" src="resources/shopify+gatsby.png" height="60px" />
   <br/>
-  The Larry U. Textbook Marketplace
+  The Larry U. Textbook Marketplace 📚
 </h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d374a159-9ee3-4b02-91a3-ee3053990fcb/deploy-status)](https://app.netlify.com/sites/gatsby-shopify-starter/deploys)
 
 Kick off your next eCommerce experience with this Gatsby starter. It is based on the default Gatsby starter to be easily modifiable. [Demo](https://gatsby-shopify-starter.netlify.com)
 
-## Directory Structure
+## 🗂 Directory Structure
 
-```shell
+Coming Soon ...
+
+<!-- ```shell
 PROJECT/                        # → Root Directory
 ├── wp-content/                 #
 │   ├── themes/                 #
@@ -20,7 +22,7 @@ PROJECT/                        # → Root Directory
 │       └── wpnyc-functions/# → Project Functionality
 ├── .gitignore                  # → WPE CLI Gitignore
 └── composer.json               # → Installs 3rd Party Plugins
-```
+``` -->
 
 ## 💎 Features
 
@@ -50,17 +52,17 @@ I'm using [Emotion](https://emotion.sh/docs/introduction) as styled components l
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+- **For most developers, they recommend starting with [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## Deploy
+## ⚙️ Building and hosting
 
-Checkout my other open-source project [JAMStackBox](https://github.com/AlexanderProd/jam-stack-box) to continuously deploy your Gatsby site on your own server.
+This website is built using [Gatsby Cloud](https://www.gatsbyjs.com) and hosted on (Netlify)[app.netlify.com/]
 
 ## 📌 ToDo
 
-I'll happily merge any pull request to improve the starter. 🙂
+I'll happily merge any pull request to improve the project. 🙂
 
 - [x] Convert Layout to function component.
 - [x] Add dynamic inventory checking to avoid re-building after every purchase.
