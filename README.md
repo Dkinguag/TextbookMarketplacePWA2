@@ -43,7 +43,7 @@ The Shopify product inventory is being checked in realtime, therefore no rebuild
 
 I'm using [Emotion](https://emotion.sh/docs/introduction) as styled components library, but the starter is purposely only sparsely styled so you don't have to remove unecessary code but can instead add your own styling immediately.
 
-## ⚠️ Common problems
+## ⚠️ Common Problems
 
 - You need to use the Shopify Storefront API credentials not the regular Shopify API.
 - You need to have at least one published product on Shopify.
@@ -56,7 +56,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## ⚙️ Building and hosting
+## ⚙️ Building and Hosting
 
 This website is built using [Gatsby Cloud](https://www.gatsbyjs.com) and hosted on (Netlify)[app.netlify.com/]
 
