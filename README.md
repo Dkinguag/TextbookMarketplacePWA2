@@ -7,7 +7,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d374a159-9ee3-4b02-91a3-ee3053990fcb/deploy-status)](https://app.netlify.com/sites/gatsby-shopify-starter/deploys)
 
-Kick off your next eCommerce experience with this Gatsby starter. It is based on the default Gatsby starter to be easily modifiable. [Demo](https://gatsby-shopify-starter.netlify.com)
+This website is hosted on (Netlify). It is based on the default Gatsby starter, which is made to be easily modifiable. [Demo](https://5e5eaa5c05bcccad950f32eb--jovial-brattain-50b818.netlify.com/)
 
 ## 🗂 Directory Structure
 
