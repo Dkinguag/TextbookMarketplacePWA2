@@ -1,17 +1,3 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
-import SEO from '~/components/seo'
-import ProductGrid from '~/components/ProductGrid'
-
-const IndexPage = () => (
-  <>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi, Welcome Back</h1>
-    <p>Welcome to your new Shop powered by Gatsby and Shopify.</p>
-    <ProductGrid />
-    <Link to="/Privacy-PolicyPage/">Privacy Policy</Link>
-  </>
-)
-
-export default IndexPage
+export default () => <div>Hello World!</div>
