@@ -23,7 +23,7 @@ const Navigation = ({ siteTitle }) => {
 	return(
 		<Wrapper>
 			<Container>
-				<MenuLink to='/'>
+				<MenuLink to='/account/'>
 					{siteTitle}
 				</MenuLink>
 				<MenuLink to='/cart'>
