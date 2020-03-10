@@ -9,6 +9,7 @@
 import React from "react"
 import { silentAuth } from "./src/utils/auth"
 
+
 class SessionCheck extends React.Component {
   constructor(props) {
     super(props)
