@@ -4,8 +4,8 @@ import Client from 'shopify-buy'
 import Context from '~/context/StoreContext'
 
 const client = Client.buildClient({
-  storefrontAccessToken: process.env.SHOPIFY_ACCESS_TOKEN,
-  domain: `${process.env.SHOP_NAME}.myshopify.com`,
+  storefrontAccessToken: `b6e4d3176a26ccd478a813fcb436db9e`,
+  domain: `drews-senior-year-flash-sale.myshopify.com`, 
 })
 
 const ContextProvider = ({ children }) => {

@@ -32,6 +32,6 @@ export const PriceTag = styled.span`
   margin-top: 15px;
 
   :before {
-    content: '- '
+    content: ' '
   }
 `
